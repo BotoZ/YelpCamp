@@ -1,0 +1,42 @@
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+.card-body .form-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-body .form-container form {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.top-0 {
+    top: 0;
+}
+
+.end-0 {
+    right: 0;
+}
+
+#customHeader {
+    color: #000000d5;
+    text-shadow: 3px 3px 5px #b5b5b5, -2px 1px 10px #b5b5b5;
+}
+
+
